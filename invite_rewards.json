@@ -1,4 +1,7 @@
 [
-  {"invites": 5, "reward": "50 followers"},
-  {"invites": 10, "reward": "120 followers"}
+  {"invites": 5, "rewards": ["50 Robux", "100 Followers", "Basic Group"]},
+  {"invites": 10, "rewards": ["100 Robux", "250 Followers", "Group Boost"]},
+  {"invites": 25, "rewards": ["200 Robux", "500 Followers", "Premium Group"]},
+  {"invites": 50, "rewards": ["500 Robux", "1000 Followers", "Game Spotlight"]},
+  {"invites": 100, "rewards": ["1000 Robux", "2500 Followers", "1 Month Premium"]}
 ]
